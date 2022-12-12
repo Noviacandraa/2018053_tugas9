@@ -1,0 +1,33 @@
+<resources>
+    <string name="Close">Close</string>
+    <string name="Open">Open</string>
+    <string name="app_name">HARMONI RESTORAN</string>
+    <string name="deskripsi_makanan">MAKANAN INTERNASIONAL</string>
+    <string name="details">Menyediakan makanan Internasional, Asia, Indonesia, Italia, Timur Tengah, Swedia, Liguria, Italia Utara, Eropa</string>
+    <string name="keterangan">Bahan yang kita gunakan adalah bahan bahan yang berkualitas tinggi bahkan ada yang khusus di import dari negara asalnya</string>
+    <string name="price">HARGA</string>
+    <string name="Harga_makanan">Start from 200.000</string>
+    <string name="Pesan">Silahkan pesan melalui button dibawah</string>
+    <string name="Reservasi">Silahkan reservasi tempat melalui button dibawah</string>
+    <string-array name="makanan">
+        <item>Nasi Kebuli</item>
+        <item>Sandwich</item>
+        <item>Spagetti</item>
+        <item>Roti</item>
+    </string-array>
+    <string-array name="star">
+        <item>4.5</item>
+        <item>4.7</item>
+        <item>4.4</item>
+        <item>4.9</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Rp. 285.000</item>
+        <item>Rp. 300.000</item>
+        <item>Rp. 250.000</item>
+        <item>Rp. 185.000</item>
+    </string-array>
+    <string name="waktu">
+        <b>SETEL WAKTU RESERVASIMU</b>
+    </string>
+</resources>
